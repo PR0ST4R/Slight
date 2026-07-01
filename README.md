@@ -2,35 +2,37 @@
 
 A modern social media web application built with HTML, CSS, JavaScript, and Supabase.
 
+NOTE: Saving no longer works which means accounts and posts and likes and comments are paused, so Slight sadly no longer has any support.
+
 ## Features
 
 ### Authentication
 
-* User registration
-* User login
+* User registration  (NOT SUPPORTED)
+* User login (NOT SUPPORTED)
 * Guest mode browsing
-* Secure authentication system
+* Secure authentication system (NOT SUPPORTED)
 
 ### Social Feed
 
-* Create text posts
-* Upload images and videos
-* View community posts
-* Dynamic feed updates
+* Create text posts (NOT SUPPORTED)
+* Upload images and videos (NOT SUPPORTED)
+* View community posts (NOT SUPPORTED)
+* Dynamic feed updates (NOT SUPPORTED)
 
 ### Engagement
 
-* Like posts
-* Comment on posts
-* View engagement counts
-* Personal likes library
+* Like posts (NOT SUPPORTED)
+* Comment on posts (NOT SUPPORTED)
+* View engagement counts (NOT SUPPORTED)
+* Personal likes library (NOT SUPPORTED)
 
 ### Profile System
 
 * Custom profile pictures
 * Display names
-* Personal profile dashboard
-* View your own posts
+* Personal profile dashboard (NOT SUPPORTED)
+* View your own posts (NOT SUPPORTED)
 
 ### User Experience
 
@@ -50,31 +52,27 @@ A modern social media web application built with HTML, CSS, JavaScript, and Supa
 
 ### Backend
 
-* Supabase Authentication
-* Supabase Database
-* Supabase Storage
-
-## Screenshots
-
-Add screenshots of the application here.
+* Supabase Authentication (NOT SUPPORTED)
+* Supabase Database (NOT SUPPORTED)
+* Supabase Storage (NOT SUPPORTED)
 
 ## Database Structure
 
 ### profiles
 
-Stores user profile information.
+Stores user profile information. (NOT SUPPORTED)
 
 ### posts
 
-Stores user-created posts and media references.
+Stores user-created posts and media references. (NOT SUPPORTED)
 
 ### likes
 
-Stores post likes and engagement data.
+Stores post likes and engagement data. (NOT SUPPORTED)
 
 ### comments
 
-Stores user comments on posts.
+Stores user comments on posts. (NOT SUPPORTED)
 
 ## Deployment
 
@@ -87,7 +85,7 @@ The application can be deployed using:
 
 ## Roadmap
 
-Future improvements may include:
+Future improvements may include: (NOT SUPPORTED) 
 
 * Follow system
 * Direct messaging
